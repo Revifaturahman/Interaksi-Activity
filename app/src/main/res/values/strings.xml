@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interaksi Activity</string>
+    <string name="title">Project Intent Implicit dan Eksplicit</string>
+    <string name="pindah_activity">Pindah ke Activity Baru</string>
+    <string name="second_activity">Ini adalah second activity</string>
+    <string name="pindah_halaman_data">Pindah ke Activity Dengan Data</string>
+    <string name="activity_data">Data di Terima</string>
+</resources>
