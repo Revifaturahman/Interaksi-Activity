@@ -15,6 +15,11 @@ import com.example.interaksiactivity.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), View.OnClickListener{
 
+//    Tanggal Pengerjaan: 16-05-2025
+//    Nim: 10122001
+//    Nama: Revi Faturahman
+//    Kelas: PA-3
+
     private lateinit var binding: ActivityMainBinding
     private val resultLauncher = registerForActivityResult(
         ActivityResultContracts.StartActivityForResult()
