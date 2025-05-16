@@ -18,7 +18,7 @@
         android:layout_marginBottom="20dp"/>
 
     <Button
-        android:id="@+id/btn_pindah"
+        android:id="@+id/btnPindah"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -26,11 +26,52 @@
         />
 
     <Button
-        android:id="@+id/btn_pindahdata"
+        android:id="@+id/btnPindahdata"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:text="@string/pindah_halaman_data"
         />
+
+    <Button
+        android:id="@+id/btnPindahobject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/pindah_halaman_object"
+        />
+
+    <Button
+        android:id="@+id/btnDial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/call"
+        />
+
+    <Button
+        android:id="@+id/btnAnotherapps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/apk_lain"
+        />
+
+    <Button
+        android:id="@+id/btnTambahData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/tambah_data"
+        />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/result"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"/>
 
 </LinearLayout>

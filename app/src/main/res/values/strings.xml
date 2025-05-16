@@ -5,4 +5,13 @@
     <string name="second_activity">Ini adalah second activity</string>
     <string name="pindah_halaman_data">Pindah ke Activity Dengan Data</string>
     <string name="activity_data">Data di Terima</string>
+    <string name="pindah_halaman_object">Pindah ke Activity Dengan Data</string>
+    <string name="call">Telpon Darurat</string>
+    <string name="apk_lain">Aplikasi Lain</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="result">Result Dari Halaman Tambah Data</string>
+    <string name="jenis_kelamin">Jenis Kelamin  </string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="submit">Submit</string>
 </resources>
